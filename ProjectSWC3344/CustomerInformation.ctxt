@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CustomerInformation
+comment1.params=
+comment1.target=CustomerInformation()
+comment10.params=
+comment10.target=int\ getcounterPaid()
+comment11.params=
+comment11.target=java.util.LinkedList\ getItemPurchase()
+comment2.params=custId\ custIC\ counterPaid
+comment2.target=CustomerInformation(int,\ java.lang.Long,\ int)
+comment3.params=custId\ custIC\ counterPaid\ itemPurchase
+comment3.target=void\ setCustomerinformation(int,\ java.lang.Long,\ int,\ java.util.LinkedList)
+comment4.params=cId
+comment4.target=void\ setcustId(int)
+comment5.params=cIC
+comment5.target=void\ setcustIC(java.lang.Long)
+comment6.params=cP
+comment6.target=void\ setcounterPaid(int)
+comment7.params=iP
+comment7.target=void\ setItemPurchase(java.util.LinkedList)
+comment8.params=
+comment8.target=int\ getcustId()
+comment9.params=
+comment9.target=java.lang.Long\ getcustIC()
+numComments=12
